@@ -39,7 +39,7 @@ void setup() {
   delay(2000);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Weather Monitor");
+  lcd.print("Weather Monitoring");
   lcd.setCursor(4, 1);
   lcd.print("System");
   delay(4000);
